@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "258751533503",
+    "project_id": "edutipa-academy",
+    "storage_bucket": "edutipa-academy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258751533503:android:53b530b3563e3d5bc5d10a",
+        "android_client_info": {
+          "package_name": "com.edutipa.academy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258751533503-g92hta3j0mg2dl81qm6tje55ujqah8oi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edutipa.academy",
+            "certificate_hash": "714bf0bc0e46a29431ad477fe40bbbcf0f30ec21"
+          }
+        },
+        {
+          "client_id": "258751533503-h0kc03bl28opifmt6i0erh224tkls76d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WO2jfCIAJGYascupYevw26zz6D3pVDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258751533503-h0kc03bl28opifmt6i0erh224tkls76d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
